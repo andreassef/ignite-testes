@@ -1,4 +1,6 @@
 export default {
-    secret: "chavsecreta",
-    expiresIn: '1d'
+    jwt: {
+        secret: "chavsecreta",
+        expiresIn: '1d'
+    }
 }
